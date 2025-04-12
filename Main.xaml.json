@@ -1,0 +1,45 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_dateTimeToConvert",
+      "DisplayName": "in_dateTimeToConvert",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_inputFormat",
+      "DisplayName": "in_inputFormat",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "dd/MM/yyyy HH:mm:ss",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_outputFormat",
+      "DisplayName": "in_outputFormat",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "dd/MM/yyyy HH:mm:ss",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
